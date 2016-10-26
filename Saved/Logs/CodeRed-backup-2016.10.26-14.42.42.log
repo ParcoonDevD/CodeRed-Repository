@@ -1,0 +1,1045 @@
+﻿Log file open, 10/26/16 14:38:53
+LogInit:Display: Running engine for game: CodeRed
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-127931746) SRandInit(-127931746).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.068343
+LogPluginManager: Loaded Plugin Paper2D, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Programs/Unreal/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: D:/Programs/Unreal/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.26-21.38.53:478][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.26-21.38.53:478][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.26-21.38.53:483][  0]LogInit: Computer: MRCOMPUTER
+[2016.10.26-21.38.53:483][  0]LogInit: User: Alex
+[2016.10.26-21.38.53:483][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.26-21.38.53:483][  0]LogInit: High frequency timer resolution =3.906265 MHz
+[2016.10.26-21.38.53:484][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.10.26-21.38.53:484][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.26-21.38.53:484][  0]LogMemory: Process Physical Memory: 257.39 MB used, 257.39 MB peak
+[2016.10.26-21.38.53:484][  0]LogMemory: Process Virtual Memory: 260.09 MB used, 260.09 MB peak
+[2016.10.26-21.38.53:484][  0]LogMemory: Physical Memory: 5960.74 MB used, 16335.65 MB total
+[2016.10.26-21.38.53:484][  0]LogMemory: Virtual Memory: 623.24 MB used, 134217728.00 MB total
+[2016.10.26-21.38.53:509][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.10.26-21.38.54:013][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.26-21.38.54:036][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2016.10.26-21.38.54:036][  0]LogD3D11RHI:       4062/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2016.10.26-21.38.54:037][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.26-21.38.54:037][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.26-21.38.54:037][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.26-21.38.54:040][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.26-21.38.54:040][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.26-21.38.54:040][  0]LogWindows: EnumDisplayDevices:
+[2016.10.26-21.38.54:040][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2016.10.26-21.38.54:041][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2016.10.26-21.38.54:041][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2016.10.26-21.38.54:041][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2016.10.26-21.38.54:041][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.10.26-21.38.54:041][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2016.10.26-21.38.54:041][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2016.10.26-21.38.54:041][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2016.10.26-21.38.54:041][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.26-21.38.54:054][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.26-21.38.54:069][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.10.26-21.38.54:069][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../../Documents/Github/Old-Repository/Intermediate/Shaders/WorkingDirectory/13764/).
+[2016.10.26-21.38.54:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex/AppData/Local/Temp/UnrealShaderWorkingDir/75CA00924011EFB5A4F8A990FA0C0FC1/'.
+[2016.10.26-21.38.54:069][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.26-21.38.54:844][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.26-21.38.54:850][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.26-21.38.54:857][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.26-21.38.54:863][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.26-21.38.54:869][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.26-21.38.54:875][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.26-21.38.54:880][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.26-21.38.54:886][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.26-21.38.54:892][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.26-21.38.54:897][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.26-21.38.54:903][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.26-21.38.54:914][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.26-21.38.54:914][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.26-21.38.54:914][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.26-21.38.54:933][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.26-21.38.54:939][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.26-21.38.54:945][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.26-21.38.54:950][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.26-21.38.54:956][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.26-21.38.54:961][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.26-21.38.54:961][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.26-21.38.55:001][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache: Loaded boot cache 0.05s 62MB C:/Users/Alex/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Alex/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Documents/Github/Old-Repository/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Documents/Github/Old-Repository/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.26-21.38.55:051][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.26-21.38.55:064][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.26-21.38.55:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.26-21.38.55:244][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.26-21.38.55:246][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.26-21.38.55:310][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.26-21.38.55:310][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.26-21.38.55:310][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.26-21.38.55:355][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.26-21.38.55:603][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: codered, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 438237191
+[2016.10.26-21.38.55:636][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2016.10.26-21.38.55:670][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.032026 seconds
+[2016.10.26-21.38.55:674][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.10.26-21.38.55:674][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.10.26-21.38.55:674][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.26-21.38.55:676][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.26-21.38.55:810][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.26-21.38.55:810][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.26-21.38.56:304][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.10.26-21.38.56:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.26-21.38.56:325][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.26-21.38.56:546][  0]SourceControl: Info Source control is disabled
+[2016.10.26-21.38.56:546][  0]SourceControl: Info Source control is disabled
+[2016.10.26-21.38.56:550][  0]SourceControl: Info Source control is disabled
+[2016.10.26-21.38.56:554][  0]SourceControl: Info Source control is disabled
+[2016.10.26-21.38.56:783][  0]LogEngine: Initializing Engine...
+[2016.10.26-21.38.56:783][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.26-21.38.56:888][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.26-21.38.56:899][  0]LogInit: XAudio2 using 'Headset Earphone (2- ASTRO MixAmp Pro           )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.26-21.38.56:908][  0]LogInit: FAudioDevice initialized.
+[2016.10.26-21.38.56:934][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Alex/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.26-21.38.56:939][  0]LogInit: Texture streaming: Enabled
+[2016.10.26-21.38.56:954][  0]LogInit: Transaction tracking system initialized
+[2016.10.26-21.38.56:965][  0]BlueprintLog: New page: Editor Load
+[2016.10.26-21.38.57:027][  0]LocalizationService: Info Localization service is disabled
+[2016.10.26-21.38.57:075][  0]LogConsoleResponse:Display: 
+[2016.10.26-21.38.57:152][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.26-21.38.57:152][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.26-21.38.57:228][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Old-Repository/Content/' took 0.02s
+[2016.10.26-21.38.57:228][  0]SourceControl: Info Source control is disabled
+[2016.10.26-21.38.57:229][  0]Cmd: MAP LOAD FILE="../../../../../../../Documents/Github/Old-Repository/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.26-21.38.57:229][  0]LightingResults: New page: Lighting Build
+[2016.10.26-21.38.57:231][  0]MapCheck: New page: Map Check
+[2016.10.26-21.38.57:231][  0]LightingResults: New page: Lighting Build
+[2016.10.26-21.38.57:594][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.10.26-21.38.57:606][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.26-21.38.57:607][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.26-21.38.57:638][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.446ms to complete.
+[2016.10.26-21.38.57:638][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.409
+[2016.10.26-21.38.57:892][  0]LogCollectionManager: Loaded 0 collections in 0.000676 seconds
+[2016.10.26-21.38.57:952][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Old-Repository/Saved/Collections/' took 0.01s
+[2016.10.26-21.38.57:952][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Old-Repository/Content/Developers/Alex/Collections/' took 0.01s
+[2016.10.26-21.38.57:952][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Github/Old-Repository/Content/Collections/' took 0.01s
+[2016.10.26-21.38.57:952][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.10.26-21.38.57:969][  0]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2156 classes and 421 folders.
+[2016.10.26-21.38.57:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.26-21.38.57:973][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.26-21.38.57:974][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 12 classes and 0 folders.
+[2016.10.26-21.38.57:978][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.10.26-21.38.58:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.10.26-21.38.58:010][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.26-21.38.58:060][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.26-21.38.58:065][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.26-21.38.58:090][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.26-21.38.58:090][  0]LogLoad: (Engine Initialization) Total time: 5.24 seconds
+[2016.10.26-21.38.58:090][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.14 seconds
+[2016.10.26-21.38.58:090][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.26-21.38.58:090][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.26-21.38.58:099][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.26-21.38.58:099][  0]LogOcInput: OculusInput pre-init called
+[2016.10.26-21.38.58:137][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.38.58:266][  0]LogRenderer: Reallocating scene render targets to support 1300x624 (Frame:2).
+[2016.10.26-21.38.58:330][  1]LogAssetRegistry: Asset discovery search completed in 2.7158 seconds
+[2016.10.26-21.38.58:330][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.10.26-21.38.58:330][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2016.10.26-21.39.08:329][166]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Github/Old-Repository/Content/' took 10.22s
+[2016.10.26-21.39.10:367][407]AssetReimport: New page: Outstanding source content changes 6:39:10 AM
+[2016.10.26-21.39.10:483][407]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Dome/SM_BioDome_01.fbx]
+[2016.10.26-21.39.10:569][407]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Dome/SM_BioDome_01.fbx
+[2016.10.26-21.39.10:625][407]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.10:633][407]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.10.26-21.39.10:665][407]LogStaticMesh: Building static mesh BioDome_Mesh_01...
+[2016.10.26-21.39.11:431][407]LogStaticMesh: Built static mesh [0.77s] /Game/Assets/Environment/Buildings/Dome/BioDome_Mesh_01.BioDome_Mesh_01
+[2016.10.26-21.39.12:003][407]LogStaticMesh: Building static mesh BioDome_Mesh_01...
+[2016.10.26-21.39.12:569][407]LogStaticMesh: Built static mesh [0.57s] /Game/Assets/Environment/Buildings/Dome/BioDome_Mesh_01.BioDome_Mesh_01
+[2016.10.26-21.39.12:582][407]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.12:607][408]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/Grass_Textures.psd)
+[2016.10.26-21.39.12:662][409]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_Bump.tga)
+[2016.10.26-21.39.13:509][410]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Landscape_v01.png]
+[2016.10.26-21.39.13:509][410]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Landscape_v01.png)
+[2016.10.26-21.39.14:474][410]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.14:488][411]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/Branches_Textures_01.psd)
+[2016.10.26-21.39.14:501][411]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/Branches_Textures_01.psd)
+[2016.10.26-21.39.14:550][412]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Spire/Spire_Mesh_01.fbx]
+[2016.10.26-21.39.14:580][412]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Spire/Spire_Mesh_01.fbx
+[2016.10.26-21.39.14:623][412]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.14:994][412]LogStaticMesh: Building static mesh Spire_Mesh_01...
+[2016.10.26-21.39.15:111][412]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/Environment/Buildings/Spire/Spire_Mesh_01.Spire_Mesh_01
+[2016.10.26-21.39.15:121][412]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:134][413]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.PNG]
+[2016.10.26-21.39.15:134][413]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.PNG)
+[2016.10.26-21.39.15:189][413]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:203][414]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Water/SM_WaterPlane_01.fbx]
+[2016.10.26-21.39.15:209][414]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Water/SM_WaterPlane_01.fbx
+[2016.10.26-21.39.15:213][414]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.15:217][414]LogStaticMesh: Building static mesh SM_WaterPlane_01...
+[2016.10.26-21.39.15:218][414]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Water/SM_WaterPlane_01.SM_WaterPlane_01
+[2016.10.26-21.39.15:218][414]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:230][415]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.fbx]
+[2016.10.26-21.39.15:239][415]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.fbx
+[2016.10.26-21.39.15:245][415]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.15:249][415]LogStaticMesh: Building static mesh SM_Grass_01...
+[2016.10.26-21.39.15:250][415]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.SM_Grass_01
+[2016.10.26-21.39.15:251][415]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:260][416]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.fbx]
+[2016.10.26-21.39.15:267][416]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.fbx
+[2016.10.26-21.39.15:273][416]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.15:278][416]LogStaticMesh: Building static mesh SM_Grass_02...
+[2016.10.26-21.39.15:281][416]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.SM_Grass_02
+[2016.10.26-21.39.15:283][416]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:293][417]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_A.tga]
+[2016.10.26-21.39.15:293][417]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_A.tga)
+[2016.10.26-21.39.15:318][417]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:328][418]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_D.tga]
+[2016.10.26-21.39.15:328][418]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_D.tga)
+[2016.10.26-21.39.15:360][418]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:368][419]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_D.tga]
+[2016.10.26-21.39.15:368][419]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_D.tga)
+[2016.10.26-21.39.15:400][419]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:427][420]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_N.tga]
+[2016.10.26-21.39.15:427][420]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_N.tga)
+[2016.10.26-21.39.15:435][420]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:444][421]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_S.tga]
+[2016.10.26-21.39.15:444][421]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_S.tga)
+[2016.10.26-21.39.15:464][421]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:472][422]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_D.tga]
+[2016.10.26-21.39.15:472][422]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_D.tga)
+[2016.10.26-21.39.15:511][422]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:522][423]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_N.tga]
+[2016.10.26-21.39.15:522][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_N.tga)
+[2016.10.26-21.39.15:531][423]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:533][423]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_S.tga]
+[2016.10.26-21.39.15:533][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_S.tga)
+[2016.10.26-21.39.15:561][423]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:569][424]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.fbx]
+[2016.10.26-21.39.15:578][424]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.fbx
+[2016.10.26-21.39.15:586][424]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.15:606][424]LogStaticMesh: Building static mesh SM_TreeBranches_01...
+[2016.10.26-21.39.15:637][424]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.SM_TreeBranches_01
+[2016.10.26-21.39.15:641][424]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:651][425]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeCombined_01.fbx]
+[2016.10.26-21.39.15:666][425]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeCombined_01.fbx
+[2016.10.26-21.39.15:689][425]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.15:893][425]LogStaticMesh: Building static mesh SM_TreeFull_01...
+[2016.10.26-21.39.15:945][425]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Environment/Foliage_Rocks/Trees/SM_TreeFull_01.SM_TreeFull_01
+[2016.10.26-21.39.15:951][425]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.15:961][426]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_Tree_01.fbx]
+[2016.10.26-21.39.15:971][426]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_Tree_01.fbx
+[2016.10.26-21.39.15:985][426]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.39.16:174][426]LogStaticMesh: Building static mesh SM_DeadTree_01...
+[2016.10.26-21.39.16:206][426]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Environment/Foliage_Rocks/Trees/SM_DeadTree_01.SM_DeadTree_01
+[2016.10.26-21.39.16:212][426]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.16:233][427]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_AO.tga]
+[2016.10.26-21.39.16:233][427]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_AO.tga)
+[2016.10.26-21.39.17:381][427]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.17:413][428]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_D.tga]
+[2016.10.26-21.39.17:413][428]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_D.tga)
+[2016.10.26-21.39.19:381][428]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.19:418][429]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_N.tga]
+[2016.10.26-21.39.19:418][429]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_N.tga)
+[2016.10.26-21.39.19:887][429]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.19:974][430]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_S.tga]
+[2016.10.26-21.39.19:974][430]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_S.tga)
+[2016.10.26-21.39.20:758][430]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.20:811][431]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape.psd]
+[2016.10.26-21.39.20:811][431]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape.psd)
+[2016.10.26-21.39.23:261][431]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.23:442][432]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Flat.png]
+[2016.10.26-21.39.23:442][432]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Flat.png)
+[2016.10.26-21.39.25:775][432]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.25:801][433]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v02.png]
+[2016.10.26-21.39.25:801][433]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v02.png)
+[2016.10.26-21.39.29:142][433]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.29:166][434]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v03.png]
+[2016.10.26-21.39.29:167][434]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v03.png)
+[2016.10.26-21.39.32:269][434]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.32:303][435]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v04.png]
+[2016.10.26-21.39.32:303][435]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v04.png)
+[2016.10.26-21.39.35:035][435]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.35:081][436]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_v01.png]
+[2016.10.26-21.39.35:081][436]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_v01.png)
+[2016.10.26-21.39.37:616][436]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.37:637][437]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_D.tga]
+[2016.10.26-21.39.37:637][437]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_D.tga)
+[2016.10.26-21.39.46:147][437]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.46:280][438]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_N.tga]
+[2016.10.26-21.39.46:280][438]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_N.tga)
+[2016.10.26-21.39.48:098][438]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.48:221][439]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_D.tga]
+[2016.10.26-21.39.48:221][439]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_D.tga)
+[2016.10.26-21.39.56:694][439]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.56:832][440]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_N.tga]
+[2016.10.26-21.39.56:832][440]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_N.tga)
+[2016.10.26-21.39.58:653][440]LogEditorFactories: -- imported successfully
+[2016.10.26-21.39.58:770][441]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_D.tga]
+[2016.10.26-21.39.58:770][441]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_D.tga)
+[2016.10.26-21.40.06:969][441]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.07:191][442]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_N.tga]
+[2016.10.26-21.40.07:191][442]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_N.tga)
+[2016.10.26-21.40.08:957][442]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.09:077][443]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_D.tga]
+[2016.10.26-21.40.09:077][443]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_D.tga)
+[2016.10.26-21.40.16:559][443]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.16:684][444]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_N.tga]
+[2016.10.26-21.40.16:684][444]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_N.tga)
+[2016.10.26-21.40.18:456][444]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.18:567][445]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/1.ies]
+[2016.10.26-21.40.18:567][445]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/1.ies)
+[2016.10.26-21.40.18:694][445]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.18:701][446]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/2.ies]
+[2016.10.26-21.40.18:701][446]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/2.ies)
+[2016.10.26-21.40.18:827][446]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.18:833][447]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/3.ies]
+[2016.10.26-21.40.18:833][447]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/3.ies)
+[2016.10.26-21.40.18:958][447]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.18:965][448]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/4.ies]
+[2016.10.26-21.40.18:965][448]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/4.ies)
+[2016.10.26-21.40.19:114][448]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:120][449]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/5.ies]
+[2016.10.26-21.40.19:120][449]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/5.ies)
+[2016.10.26-21.40.19:247][449]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:253][450]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/6.ies]
+[2016.10.26-21.40.19:253][450]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/6.ies)
+[2016.10.26-21.40.19:377][450]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:383][451]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/7.ies]
+[2016.10.26-21.40.19:383][451]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/7.ies)
+[2016.10.26-21.40.19:509][451]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:516][452]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/8.ies]
+[2016.10.26-21.40.19:516][452]LogFactory: FactoryCreateFile: TextureLightProfile with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/8.ies)
+[2016.10.26-21.40.19:639][452]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:648][453]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1 copy.png]
+[2016.10.26-21.40.19:648][453]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1 copy.png)
+[2016.10.26-21.40.19:657][453]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:660][453]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1.psd]
+[2016.10.26-21.40.19:660][453]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1.psd)
+[2016.10.26-21.40.19:668][453]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:677][454]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/RGBTable16x1.png]
+[2016.10.26-21.40.19:677][454]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/RGBTable16x1.png)
+[2016.10.26-21.40.19:685][454]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:688][454]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.fbx]
+[2016.10.26-21.40.19:695][454]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.fbx
+[2016.10.26-21.40.19:701][454]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.19:720][454]LogStaticMesh: Building static mesh SM_LockerDoor_01_Temp...
+[2016.10.26-21.40.19:725][454]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.SM_LockerDoor_01_Temp
+[2016.10.26-21.40.19:734][454]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:743][455]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.fbx]
+[2016.10.26-21.40.19:750][455]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.fbx
+[2016.10.26-21.40.19:755][455]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.19:778][455]LogStaticMesh: Building static mesh SM_Locker_01_Temp...
+[2016.10.26-21.40.19:779][455]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.SM_Locker_01_Temp
+[2016.10.26-21.40.19:781][455]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:793][456]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.fbx]
+[2016.10.26-21.40.19:811][456]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.fbx
+[2016.10.26-21.40.19:822][456]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.19:840][456]LogStaticMesh: Building static mesh SM_Boulder_Giant_01...
+[2016.10.26-21.40.19:845][456]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.SM_Boulder_Giant_01
+[2016.10.26-21.40.19:847][456]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:878][457]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.fbx]
+[2016.10.26-21.40.19:886][457]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.fbx
+[2016.10.26-21.40.19:894][457]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.19:953][457]LogStaticMesh: Building static mesh SM_Boulder_Tall_01...
+[2016.10.26-21.40.19:963][457]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.SM_Boulder_Tall_01
+[2016.10.26-21.40.19:967][457]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.19:983][458]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.fbx]
+[2016.10.26-21.40.19:992][458]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.fbx
+[2016.10.26-21.40.19:998][458]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.20:016][458]LogStaticMesh: Building static mesh SM_Boulder_Tall_02...
+[2016.10.26-21.40.20:021][458]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.SM_Boulder_Tall_02
+[2016.10.26-21.40.20:023][458]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.20:033][459]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.fbx]
+[2016.10.26-21.40.20:040][459]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.fbx
+[2016.10.26-21.40.20:046][459]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.20:063][459]LogStaticMesh: Building static mesh SM_Rock_Large_01...
+[2016.10.26-21.40.20:067][459]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.SM_Rock_Large_01
+[2016.10.26-21.40.20:069][459]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.20:079][460]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.fbx]
+[2016.10.26-21.40.20:087][460]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.fbx
+[2016.10.26-21.40.20:093][460]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.20:114][460]LogStaticMesh: Building static mesh SM_Rock_Large_02...
+[2016.10.26-21.40.20:119][460]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.SM_Rock_Large_02
+[2016.10.26-21.40.20:121][460]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.20:130][461]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.fbx]
+[2016.10.26-21.40.20:138][461]LogFbx: Loading FBX Scene from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.fbx
+[2016.10.26-21.40.20:144][461]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.26-21.40.20:162][461]LogStaticMesh: Building static mesh SM_Rock_Large_03...
+[2016.10.26-21.40.20:166][461]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.SM_Rock_Large_03
+[2016.10.26-21.40.20:168][461]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.20:189][462]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_D.tga]
+[2016.10.26-21.40.20:189][462]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_D.tga)
+[2016.10.26-21.40.27:760][462]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.27:884][463]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_N.tga]
+[2016.10.26-21.40.27:884][463]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_N.tga)
+[2016.10.26-21.40.29:657][463]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.29:847][464]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_AO.png]
+[2016.10.26-21.40.29:847][464]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_AO.png)
+[2016.10.26-21.40.30:120][464]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.30:132][465]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_D.png]
+[2016.10.26-21.40.30:132][465]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_D.png)
+[2016.10.26-21.40.30:625][465]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.30:641][466]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_N.png]
+[2016.10.26-21.40.30:641][466]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_N.png)
+[2016.10.26-21.40.30:766][466]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.30:781][467]LogEditorFactories: Performing atomic reimport of [D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_S.png]
+[2016.10.26-21.40.30:781][467]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_S.png)
+[2016.10.26-21.40.30:890][467]LogEditorFactories: -- imported successfully
+[2016.10.26-21.40.30:924][468]LogSavePackage: Save=10.13ms
+[2016.10.26-21.40.30:924][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/Grass_Textures24D6B34A4A34B77531A26CB5E8A1F2F9.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/Grass_Textures.uasset'
+[2016.10.26-21.40.30:925][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/Grass_Textures.uasset
+[2016.10.26-21.40.31:244][468]LogSavePackage: Save=310.45ms
+[2016.10.26-21.40.31:244][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Tree_01_BumpDCD0EFCF457DB5CA7A4E0BA11AB2A2F4.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_Bump.uasset'
+[2016.10.26-21.40.31:246][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_Bump.uasset
+[2016.10.26-21.40.31:290][468]LogSavePackage: Save=8.20ms
+[2016.10.26-21.40.31:291][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/Spire_Mesh_0161D875354CAB4B9EA42D43A9C3C2ED38.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Spire/Spire_Mesh_01.uasset'
+[2016.10.26-21.40.31:293][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Spire/Spire_Mesh_01.uasset
+[2016.10.26-21.40.31:296][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Environment/ColorPallet" FILE="../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.uasset" SILENT=true
+[2016.10.26-21.40.31:317][468]LogSavePackage: Save=19.42ms
+[2016.10.26-21.40.31:317][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/ColorPallet8C167ADB4E1CE1F77CE4179238914896.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.uasset'
+[2016.10.26-21.40.31:319][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.uasset
+[2016.10.26-21.40.31:338][468]LogSavePackage: Save=7.01ms
+[2016.10.26-21.40.31:338][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_WaterPlane_01A6EDC8994FDE26BDB28A14A6316FFAED.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Water/SM_WaterPlane_01.uasset'
+[2016.10.26-21.40.31:348][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Water/SM_WaterPlane_01.uasset
+[2016.10.26-21.40.31:368][468]LogSavePackage: Save=7.39ms
+[2016.10.26-21.40.31:368][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Grass_01B82DCE5C4BB0B85DBEF30B9587D50778.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.uasset'
+[2016.10.26-21.40.31:370][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.uasset
+[2016.10.26-21.40.31:390][468]LogSavePackage: Save=7.66ms
+[2016.10.26-21.40.31:390][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Grass_0267E1BAB34C664B7947EBDD9F5C549FCE.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.uasset'
+[2016.10.26-21.40.31:392][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.uasset
+[2016.10.26-21.40.31:412][468]LogSavePackage: Save=11.79ms
+[2016.10.26-21.40.31:412][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_01_A9BA9AD264647EB43965B68893595011D.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_A.uasset'
+[2016.10.26-21.40.31:414][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_A.uasset
+[2016.10.26-21.40.31:437][468]LogSavePackage: Save=12.31ms
+[2016.10.26-21.40.31:437][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_01_D51065E3A40D146C7ABEE4AAFA24731FA.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_D.uasset'
+[2016.10.26-21.40.31:439][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_D.uasset
+[2016.10.26-21.40.31:471][468]LogSavePackage: Save=22.57ms
+[2016.10.26-21.40.31:471][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_02_D06331C6241B7E352131D29BC0AEA34CC.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_D.uasset'
+[2016.10.26-21.40.31:472][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_D.uasset
+[2016.10.26-21.40.31:510][468]LogSavePackage: Save=12.75ms
+[2016.10.26-21.40.31:510][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_02_N9C4758A0483201672854578DD74982A0.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_N.uasset'
+[2016.10.26-21.40.31:512][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_N.uasset
+[2016.10.26-21.40.31:549][468]LogSavePackage: Save=29.50ms
+[2016.10.26-21.40.31:549][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_02_S3DE108E64F580862D721F59E5E5E6BB3.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_S.uasset'
+[2016.10.26-21.40.31:552][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_S.uasset
+[2016.10.26-21.40.31:578][468]LogSavePackage: Save=14.82ms
+[2016.10.26-21.40.31:578][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_03_D6CE28FB4455B9406C3E2BBA22663ADB4.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_D.uasset'
+[2016.10.26-21.40.31:580][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_D.uasset
+[2016.10.26-21.40.31:601][468]LogSavePackage: Save=11.72ms
+[2016.10.26-21.40.31:601][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_03_N9BA80F724A57028ECA83BB9291E000F7.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_N.uasset'
+[2016.10.26-21.40.31:603][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_N.uasset
+[2016.10.26-21.40.31:626][468]LogSavePackage: Save=13.28ms
+[2016.10.26-21.40.31:626][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_03_S20A9B3214A3B165012AE85BFC2BCBCC0.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_S.uasset'
+[2016.10.26-21.40.31:629][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_S.uasset
+[2016.10.26-21.40.31:651][468]LogSavePackage: Save=8.14ms
+[2016.10.26-21.40.31:651][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_TreeBranches_014AE520854C51AD50E7987795D55DF3CD.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.uasset'
+[2016.10.26-21.40.31:653][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.uasset
+[2016.10.26-21.40.31:674][468]LogSavePackage: Save=8.23ms
+[2016.10.26-21.40.31:674][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_TreeFull_01660DA7684BFF596BBD1F4886E44EDE16.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeFull_01.uasset'
+[2016.10.26-21.40.31:676][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeFull_01.uasset
+[2016.10.26-21.40.31:698][468]LogSavePackage: Save=8.30ms
+[2016.10.26-21.40.31:698][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_DeadTree_017594ED3740FC7E4CF2AEBABF80FB459E.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_DeadTree_01.uasset'
+[2016.10.26-21.40.31:699][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_DeadTree_01.uasset
+[2016.10.26-21.40.32:043][468]LogSavePackage: Save=305.16ms
+[2016.10.26-21.40.32:043][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Tree_01_AOB0F1C79849C913DBBCFFB9A37100EA13.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_AO.uasset'
+[2016.10.26-21.40.32:045][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_AO.uasset
+[2016.10.26-21.40.32:721][468]LogSavePackage: Save=581.57ms
+[2016.10.26-21.40.32:721][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Tree_01_D64ACA3394C8A2AE657A14CBC5AB34C88.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_D.uasset'
+[2016.10.26-21.40.32:723][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_D.uasset
+[2016.10.26-21.40.33:465][468]LogSavePackage: Save=652.84ms
+[2016.10.26-21.40.33:465][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Tree_01_N776CCD8643972B805B3784BB0FC4C689.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_N.uasset'
+[2016.10.26-21.40.33:467][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_N.uasset
+[2016.10.26-21.40.33:740][468]LogSavePackage: Save=231.03ms
+[2016.10.26-21.40.33:741][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Tree_01_S77932D914876C5268FB98CA9162D1FF2.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_S.uasset'
+[2016.10.26-21.40.33:742][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_S.uasset
+[2016.10.26-21.40.34:531][468]LogSavePackage: Save=743.89ms
+[2016.10.26-21.40.34:531][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape68C3CBA544511793CE2B91BFB818F349.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape.uasset'
+[2016.10.26-21.40.34:533][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape.uasset
+[2016.10.26-21.40.34:988][468]LogSavePackage: Save=442.19ms
+[2016.10.26-21.40.34:988][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape_Flat72944A3D48DCC56CEBD64581420D9BBD.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Flat.uasset'
+[2016.10.26-21.40.34:990][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Flat.uasset
+[2016.10.26-21.40.36:050][468]LogSavePackage: Save=990.66ms
+[2016.10.26-21.40.36:050][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape_Test_v021D2096624DB6604FFD61A0B4A3A49452.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v02.uasset'
+[2016.10.26-21.40.36:054][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v02.uasset
+[2016.10.26-21.40.37:126][468]LogSavePackage: Save=984.31ms
+[2016.10.26-21.40.37:126][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape_Test_v03A6543CB04C195CA2FBD448B09982B390.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v03.uasset'
+[2016.10.26-21.40.37:128][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v03.uasset
+[2016.10.26-21.40.38:243][468]LogSavePackage: Save=1046.40ms
+[2016.10.26-21.40.38:243][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape_Test_v0489767BAD4EA763FA835E2C9E15192710.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v04.uasset'
+[2016.10.26-21.40.38:245][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v04.uasset
+[2016.10.26-21.40.38:929][468]LogSavePackage: Save=643.74ms
+[2016.10.26-21.40.38:929][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/HM_Domescape_v01F06F32FB4596C0E5E7800EA41C18BA1B.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_v01.uasset'
+[2016.10.26-21.40.38:931][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_v01.uasset
+[2016.10.26-21.40.40:968][468]LogSavePackage: Save=2027.67ms
+[2016.10.26-21.40.40:968][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_01_DE789376F400FCCDDC3CF3DBC7169F80E.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_D.uasset'
+[2016.10.26-21.40.40:970][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_D.uasset
+[2016.10.26-21.40.43:813][468]LogSavePackage: Save=2528.82ms
+[2016.10.26-21.40.43:813][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_01_N9EF23A8C4904E9750E73239DDCAF10C9.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_N.uasset'
+[2016.10.26-21.40.43:818][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_N.uasset
+[2016.10.26-21.40.45:960][468]LogSavePackage: Save=2132.46ms
+[2016.10.26-21.40.45:960][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_02_D62681CA944433BA2972FFD9BE86B93BC.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_D.uasset'
+[2016.10.26-21.40.45:962][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_D.uasset
+[2016.10.26-21.40.48:267][468]LogSavePackage: Save=2294.95ms
+[2016.10.26-21.40.48:267][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Grass_02_NE64C311A4FFC1BD7F12D4791642A8F31.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_N.uasset'
+[2016.10.26-21.40.48:269][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_N.uasset
+[2016.10.26-21.40.50:787][468]LogSavePackage: Save=2101.80ms
+[2016.10.26-21.40.50:787][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Mud_01_DABCE684D4EA1A2F9E35EBDAD1FB96ABE.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_D.uasset'
+[2016.10.26-21.40.50:792][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_D.uasset
+[2016.10.26-21.40.53:048][468]LogSavePackage: Save=2039.09ms
+[2016.10.26-21.40.53:048][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Mud_01_NDC1C6099416B5B15932120B88D7F274D.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_N.uasset'
+[2016.10.26-21.40.53:052][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_N.uasset
+[2016.10.26-21.40.55:281][468]LogSavePackage: Save=2009.53ms
+[2016.10.26-21.40.55:281][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Rock_01_D8E50D77C4278BCF4449029835F8990E5.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_D.uasset'
+[2016.10.26-21.40.55:285][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_D.uasset
+[2016.10.26-21.40.57:757][468]LogSavePackage: Save=2101.75ms
+[2016.10.26-21.40.57:757][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Rock_01_N42107F674A114C085BEDD49476295002.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_N.uasset'
+[2016.10.26-21.40.57:761][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_N.uasset
+[2016.10.26-21.40.57:774][468]LogSavePackage: Save=2.92ms
+[2016.10.26-21.40.57:774][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/18663C4E84CC5F6F07EE4A5945CA5930D.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/1.uasset'
+[2016.10.26-21.40.57:776][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/1.uasset
+[2016.10.26-21.40.57:785][468]LogSavePackage: Save=2.98ms
+[2016.10.26-21.40.57:785][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/2B223531E49B3978205A8CA8E5F140329.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/2.uasset'
+[2016.10.26-21.40.57:787][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/2.uasset
+[2016.10.26-21.40.57:796][468]LogSavePackage: Save=3.55ms
+[2016.10.26-21.40.57:796][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/368CBEECB4532B45FA66E2496E50BCD67.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/3.uasset'
+[2016.10.26-21.40.57:798][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/3.uasset
+[2016.10.26-21.40.57:807][468]LogSavePackage: Save=3.13ms
+[2016.10.26-21.40.57:807][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/4A4B7D0FD442D32D2B0AA85B778EEFEB6.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/4.uasset'
+[2016.10.26-21.40.57:808][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/4.uasset
+[2016.10.26-21.40.57:820][468]LogSavePackage: Save=4.05ms
+[2016.10.26-21.40.57:820][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/524F81DDE47E28716B3A7DBABCE909DA2.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/5.uasset'
+[2016.10.26-21.40.57:822][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/5.uasset
+[2016.10.26-21.40.57:847][468]LogSavePackage: Save=19.55ms
+[2016.10.26-21.40.57:847][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/6F01A389C4049E501B80D76A1A1C4F69B.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/6.uasset'
+[2016.10.26-21.40.57:849][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/6.uasset
+[2016.10.26-21.40.57:857][468]LogSavePackage: Save=2.99ms
+[2016.10.26-21.40.57:857][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/71D41FA9C44FC40B386A33D9B12968BC8.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/7.uasset'
+[2016.10.26-21.40.57:859][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/7.uasset
+[2016.10.26-21.40.57:867][468]LogSavePackage: Save=2.77ms
+[2016.10.26-21.40.57:867][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/813862A4247824592462270A59FE6BC20.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/8.uasset'
+[2016.10.26-21.40.57:869][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/IES_Flashlight_Pack/8.uasset
+[2016.10.26-21.40.57:873][468]LogSavePackage: Save=1.25ms
+[2016.10.26-21.40.57:873][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/ColorGrade1_copy2F322F3E4F0AAE945A36CF8483574DBB.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1_copy.uasset'
+[2016.10.26-21.40.57:875][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1_copy.uasset
+[2016.10.26-21.40.57:880][468]LogSavePackage: Save=1.47ms
+[2016.10.26-21.40.57:880][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/ColorGrade181C64B494741F29341F86CBE8CA25380.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1.uasset'
+[2016.10.26-21.40.57:881][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1.uasset
+[2016.10.26-21.40.57:885][468]LogSavePackage: Save=1.28ms
+[2016.10.26-21.40.57:885][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/RGBTable16x1EC43C81B442271871AFDE6BE1BC284F3.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/RGBTable16x1.uasset'
+[2016.10.26-21.40.57:887][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/RGBTable16x1.uasset
+[2016.10.26-21.40.57:907][468]LogSavePackage: Save=7.64ms
+[2016.10.26-21.40.57:907][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_LockerDoor_01_Temp6C5EFBA045C9F7F622F0CBAB47093115.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.uasset'
+[2016.10.26-21.40.57:909][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.uasset
+[2016.10.26-21.40.57:929][468]LogSavePackage: Save=7.87ms
+[2016.10.26-21.40.57:929][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Locker_01_Temp199D99514FDA8B54D4342E93C3B97433.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.uasset'
+[2016.10.26-21.40.57:931][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.uasset
+[2016.10.26-21.40.57:952][468]LogSavePackage: Save=7.39ms
+[2016.10.26-21.40.57:952][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Boulder_Giant_019070AFBC43D82CDB596A01A6B5B0D73B.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.uasset'
+[2016.10.26-21.40.57:953][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.uasset
+[2016.10.26-21.40.57:975][468]LogSavePackage: Save=8.05ms
+[2016.10.26-21.40.57:975][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Boulder_Tall_01606147BE492AF4D2AD77E59DD6FEE402.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.uasset'
+[2016.10.26-21.40.57:977][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.uasset
+[2016.10.26-21.40.57:998][468]LogSavePackage: Save=8.52ms
+[2016.10.26-21.40.57:998][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Boulder_Tall_02BDA60F0E420B59C32BD0CEB5A0F94EE1.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.uasset'
+[2016.10.26-21.40.58:000][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.uasset
+[2016.10.26-21.40.58:021][468]LogSavePackage: Save=7.92ms
+[2016.10.26-21.40.58:021][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Rock_Large_016B46461843ED25165FDA37AFA732AE03.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.uasset'
+[2016.10.26-21.40.58:023][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.uasset
+[2016.10.26-21.40.58:050][468]LogSavePackage: Save=13.68ms
+[2016.10.26-21.40.58:050][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Rock_Large_021068D18E40E785F4BF98C289BAC27258.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.uasset'
+[2016.10.26-21.40.58:051][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.uasset
+[2016.10.26-21.40.58:072][468]LogSavePackage: Save=7.87ms
+[2016.10.26-21.40.58:072][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/SM_Rock_Large_03F1AB0AA9441E8C134C1868B1844D6C53.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.uasset'
+[2016.10.26-21.40.58:074][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.uasset
+[2016.10.26-21.40.59:908][468]LogSavePackage: Save=1824.79ms
+[2016.10.26-21.40.59:908][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Rock_01_DFFA5332448341DA1E96817AB7D8512A5.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_D.uasset'
+[2016.10.26-21.40.59:910][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_D.uasset
+[2016.10.26-21.41.01:999][468]LogSavePackage: Save=2077.13ms
+[2016.10.26-21.41.01:999][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Rock_01_NBD1B7C63470EA6B9E45D168EA73A3BD0.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_N.uasset'
+[2016.10.26-21.41.02:001][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_N.uasset
+[2016.10.26-21.41.02:130][468]LogSavePackage: Save=96.68ms
+[2016.10.26-21.41.02:130][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Branches_01_AO349E455448E0378A7760F1AF6667CA57.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_AO.uasset'
+[2016.10.26-21.41.02:132][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_AO.uasset
+[2016.10.26-21.41.02:363][468]LogSavePackage: Save=138.13ms
+[2016.10.26-21.41.02:363][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Branches_01_DC47662694C15B8D2693CE3AB1A5E29E5.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_D.uasset'
+[2016.10.26-21.41.02:367][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_D.uasset
+[2016.10.26-21.41.02:580][468]LogSavePackage: Save=152.88ms
+[2016.10.26-21.41.02:580][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Branches_01_N431F8A4E4D10B5712939418E774A7F47.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_N.uasset'
+[2016.10.26-21.41.02:582][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_N.uasset
+[2016.10.26-21.41.02:642][468]LogSavePackage: Save=50.54ms
+[2016.10.26-21.41.02:642][468]LogSavePackage: Moving '../../../../../../../Documents/Github/Old-Repository/Saved/T_Branches_01_S8AF520BB49AAF57CC0723FACEFBB610A.tmp' to '../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_S.uasset'
+[2016.10.26-21.41.02:644][468]LogSavePackage:Display: Finished SavePackage ../../../../../../../Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_S.uasset
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset BioDome_Mesh_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Dome/SM_BioDome_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Importing new asset /Game/Assets/Environment/Foliage_Rocks/Grass/Grass_Textures.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Importing new asset /Game/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_Bump.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset Heightmap_Export from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Landscape_v01.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Importing new asset /Game/Assets/Environment/Foliage_Rocks/Trees/Branches/Branches_Textures_01.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Failed to import file D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/Branches_Textures_01.psd.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset Spire_Mesh_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Buildings/Spire/Spire_Mesh_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset ColorPallet from D:/Documents/Github/Old-Repository/Content/Assets/Environment/ColorPallet.PNG.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_WaterPlane_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Water/SM_WaterPlane_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Grass_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Grass_02 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/SM_Grass_02.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_01_A from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_A.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_02_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_02_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_02_S from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_02_S.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_03_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_03_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_03_S from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Grass/T_Grass_03_S.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_TreeBranches_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeBranches_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_TreeFull_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_TreeCombined_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_DeadTree_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/SM_Tree_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Tree_01_AO from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_AO.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Tree_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Tree_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Tree_01_S from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/T_Tree_01_S.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape.psd.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape_Flat from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Flat.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape_Test_v02 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v02.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape_Test_v03 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v03.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape_Test_v04 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_Test_v04.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset HM_Domescape_v01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/HeightMaps/HM_Domescape_v01.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_01_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_02_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Grass_02_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Grass_02_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Mud_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Mud_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Mud_01_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Rock_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Rock_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Landscape/Textures/T_Rock_01_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 1 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/1.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 2 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/2.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 3 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/3.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 4 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/4.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 5 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/5.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 6 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/6.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 7 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/7.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset 8 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/IES Flashlight Pack/8.ies.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset ColorGrade1_copy from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1 copy.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset ColorGrade1 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/ColorGrade1.psd.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset RGBTable16x1 from D:/Documents/Github/Old-Repository/Content/Assets/Weapons/Flashlight/Textures/RGBTable16x1.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_LockerDoor_01_Temp from D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_LockerDoor_01_Temp.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Locker_01_Temp from D:/Documents/Github/Old-Repository/Content/Assets/Dev/Objects/Interactables/Locker/SM_Locker_01_Temp.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Boulder_Giant_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Giant_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Boulder_Tall_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Boulder_Tall_02 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Boulder_Tall_02.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Rock_Large_01 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_01.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Rock_Large_02 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_02.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset SM_Rock_Large_03 from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Meshes/SM_Rock_Large_03.fbx.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Rock_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_D.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Rock_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Rocks/Textures/T_Rock_01_N.tga.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Branches_01_AO from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_AO.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Branches_01_D from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_D.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Branches_01_N from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_N.png.
+[2016.10.26-21.41.05:646][827]AssetReimport: Info Reimported asset T_Branches_01_S from D:/Documents/Github/Old-Repository/Content/Assets/Environment/Foliage_Rocks/Trees/Branches/T_Branches_01_S.png.
+[2016.10.26-21.41.54:876][732]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.10.26-21.41.56:459][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.10.26-21.41.56:459][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.26-21.41.56:460][865]PIE: New page: PIE session: FirstPersonExampleMap (Oct 26, 2016, 6:41:56 AM)
+[2016.10.26-21.41.56:460][865]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.10.26-21.41.56:483][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023396s)
+[2016.10.26-21.41.56:484][865]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.10.26-21.41.56:484][865]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2016.10.26-21.41.56:484][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024580s)
+[2016.10.26-21.41.56:502][865]LogInit: XAudio2 using 'Headset Earphone (2- ASTRO MixAmp Pro           )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.26-21.41.56:509][865]LogInit: FAudioDevice initialized.
+[2016.10.26-21.41.56:549][865]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.10.26-21.41.56:556][865]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.10.26-14.41.56
+[2016.10.26-21.41.56:557][865]LogWorld: Bringing up level for play took: 0.006478
+[2016.10.26-21.41.56:562][865]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2016.10.26-21.41.56:562][865]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.41.56:562][865]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.41.56:562][865]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.41.56:563][865]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.41.56:563][865]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.335
+[2016.10.26-21.41.56:563][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.10.26-21.42.05:882][972]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-916.217 Y=811.714 Z=300.745] for [FirstPersonProjectile_C]
+[2016.10.26-21.42.11:439][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.10.26-21.42.11:481][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.10.26-21.42.17:174][ 12]LogAIModule: Creating AISystem for world CodeRed_Level_v03
+[2016.10.26-21.42.31:267][214]Cmd: QUIT_EDITOR
+[2016.10.26-21.42.31:459][214]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.26-21.42.31:513][214]LogExit: Preparing to exit.
+[2016.10.26-21.42.32:625][214]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/Old-Repository/Content/' was aborted.
+[2016.10.26-21.42.32:649][214]LogExit: Editor shut down
+[2016.10.26-21.42.32:649][214]LogExit: Transaction tracking system shut down
+[2016.10.26-21.42.32:823][214]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.26-21.42.32:823][214]LogExit: Object subsystem successfully closed.
+[2016.10.26-21.42.32:837][214]LogD3D11RHI: Shutdown
+[2016.10.26-21.42.32:837][214]LogD3D11RHI: CleanupD3DDevice
+[2016.10.26-21.42.32:920][214]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (236)
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module SceneOutliner (233)
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module WidgetCarousel (232)
+[2016.10.26-21.42.32:925][214]LogModuleManager: Shutting down and abandoning module AddContentDialog (231)
+[2016.10.26-21.42.32:925][214]LogDirectoryWatcher: A directory notification for 'D:/Programs/Unreal/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module GameplayTags (230)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module EditorWidgets (229)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module CollectionManager (228)
+[2016.10.26-21.42.32:926][214]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/Old-Repository/Content/Collections/' was aborted.
+[2016.10.26-21.42.32:926][214]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/Old-Repository/Content/Developers/Alex/Collections/' was aborted.
+[2016.10.26-21.42.32:926][214]LogDirectoryWatcher: A directory notification for 'D:/Documents/Github/Old-Repository/Saved/Collections/' was aborted.
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module StatsViewer (227)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module FoliageEdit (226)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module LandscapeEditor (225)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (224)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module ActorPickerMode (223)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module GeometryMode (222)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module TextureAlignMode (221)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module BspMode (220)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module HardwareSurvey (219)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (218)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module SequenceRecorder (217)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module AutomationWorker (216)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (215)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module PlacementMode (214)
+[2016.10.26-21.42.32:926][214]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (213)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (212)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (211)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (210)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (209)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module Media (208)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (207)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (206)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module CharacterAI (205)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module SmartSnapping (204)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module SessionServices (203)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module ViewportSnapping (202)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module ViewportInteraction (201)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module LogVisualizer (200)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (199)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module IntroTutorials (198)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (197)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (196)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (195)
+[2016.10.26-21.42.32:927][214]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (194)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (193)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (192)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (191)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module NiagaraEditor (190)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module MergeActors (189)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module SizeMap (188)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module TreeMap (187)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module ReferenceViewer (186)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module LocalizationService (185)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (184)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module HardwareTargeting (183)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (182)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module UndoHistory (181)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module UserFeedback (180)
+[2016.10.26-21.42.33:137][214]LogModuleManager: Shutting down and abandoning module XmlParser (179)
+[2016.10.26-21.42.33:138][214]LogModuleManager: Shutting down and abandoning module Blutility (178)
+[2016.10.26-21.42.33:138][214]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (177)
+[2016.10.26-21.42.33:138][214]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (176)
+[2016.10.26-21.42.33:138][214]LogModuleManager: Shutting down and abandoning module InputBindingEditor (175)
+[2016.10.26-21.42.33:138][214]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (174)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module SettingsEditor (173)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module ProjectLauncher (172)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module SessionFrontend (171)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module ProfilerClient (170)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (169)
+[2016.10.26-21.42.33:139][214]LogModuleManager: Shutting down and abandoning module DeviceManager (168)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module AutomationController (167)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module AutomationWindow (166)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module Layers (165)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (164)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module DetailCustomizations (163)
+[2016.10.26-21.42.33:182][214]LogModuleManager: Shutting down and abandoning module PackagesDialog (162)
+[2016.10.26-21.42.33:183][214]LogModuleManager: Shutting down and abandoning module AnimGraph (161)
+[2016.10.26-21.42.33:183][214]LogModuleManager: Shutting down and abandoning module Persona (160)
+[2016.10.26-21.42.33:183][214]LogModuleManager: Shutting down and abandoning module Kismet (159)
+[2016.10.26-21.42.33:185][214]LogModuleManager: Shutting down and abandoning module GraphEditor (158)
+[2016.10.26-21.42.33:185][214]LogModuleManager: Shutting down and abandoning module ClassViewer (157)
+[2016.10.26-21.42.33:185][214]LogModuleManager: Shutting down and abandoning module Toolbox (156)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module ModuleUI (155)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module MovieSceneTools (154)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module OutputLog (153)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module GammaUI (152)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module Documentation (151)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module Niagara (150)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (149)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module AnalyticsET (148)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module PortalServices (147)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module PortalRpc (146)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module MessagingRpc (145)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module GameplayDebugger (144)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module AITestSuite (143)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module AIModule (142)
+[2016.10.26-21.42.33:186][214]LogModuleManager: Shutting down and abandoning module ProfilerService (141)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module TaskGraph (140)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module SubstanceEditor (139)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2016.10.26-21.42.33:272][214]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2016.10.26-21.42.33:273][214]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2016.10.26-21.42.33:274][214]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2016.10.26-21.42.33:275][214]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2016.10.26-21.42.33:275][214]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2016.10.26-21.42.33:277][214]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2016.10.26-21.42.33:279][214]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2016.10.26-21.42.33:279][214]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.10.26-21.42.33:380][214]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.10.26-21.42.33:480][214]LogModuleManager: Shutting down and abandoning module SubstanceCore (95)
+[2016.10.26-21.42.33:480][214]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.26-21.42.33:480][214]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.26-21.42.33:480][214]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.26-21.42.33:480][214]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.26-21.42.33:481][214]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.26-21.42.33:482][214]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.26-21.42.33:490][214]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.26-21.42.33:490][214]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.26-21.42.33:490][214]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.26-21.42.33:490][214]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.26-21.42.33:491][214]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.26-21.42.33:491][214]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.26-21.42.33:491][214]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.26-21.42.33:491][214]LogDirectoryWatcher: A directory notification for '../../../../../../../Documents/Github/Old-Repository/Content/' was aborted.
+[2016.10.26-21.42.33:491][214]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.26-21.42.33:492][214]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.26-21.42.33:666][214]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.26-21.42.33:666][214]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.26-21.42.33:666][214]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.26-21.42.33:666][214]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.26-21.42.33:689][214]LogDerivedDataCache: Shutdown
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.26-21.42.33:689][214]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.26-21.42.33:690][214]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.26-21.42.33:691][214]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.26-21.42.33:691][214]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.26-21.42.33:691][214]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.26-21.42.33:691][214]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FA4FCB4-402F-9BAB-66E4-FD925EF5D0A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=b28d1d654387df3afc96b08aa1afe0d6%7Ce26f91dfb20740db9b37c58526f367c8%7C4a6da8f3-8728-49b7-8a4b-e32f525e8028&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.26-21.42.33:697][214]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.26-21.42.33:697][214]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.26-21.42.33:697][214]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.26-21.42.33:697][214]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.26-21.42.33:697][214]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.26-21.42.33:699][214]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.26-21.42.33:700][214]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.26-21.42.33:705][214]LogExit: Exiting.
+[2016.10.26-21.42.33:709][214]Log file closed, 10/26/16 14:42:33
